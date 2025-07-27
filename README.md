@@ -2,6 +2,7 @@
 
 🔧 Diploma in Embedded Systems (Govt. Institute of Electronics)  
 ✈️ EASA B2 AME Aspirant | Avionics & Predictive Maintenance Focused  
+✈️ Aspirant future GCAA CPL Holder
 📊 Developer of **EAMHP – Excel-Based Avionics & Mechanical Health Predictor**  
 💡 Passionate about logic-based aviation tools, Excel automation & fault diagnostics  
 🛫 Motto: **Born to Keep Aircraft Airborne 24x7**
