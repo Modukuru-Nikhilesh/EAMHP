@@ -1,1 +1,39 @@
+EAMHP Sample Input Data – Case 01
 
+Aircraft: Airbus A320
+Engine: CFM56-5B
+
+----------------------------------------
+Input Parameters
+----------------------------------------
+
+EGT 1: HIGH
+EGT 2: HIGH
+Voltage: LOW
+Fuel Flow: NORMAL
+Oil Pressure: NORMAL
+Sensor A: HIGH
+Sensor B: HIGH
+BIT Status: FAIL
+
+----------------------------------------
+Condition Interpretation
+----------------------------------------
+
+EGT 1: HIGH
+EGT 2: HIGH
+Voltage: LOW
+Sensors: BOTH HIGH
+BIT: FAIL
+
+----------------------------------------
+Combination Triggered
+----------------------------------------
+
+EGT1 + EGT2 HIGH
+Voltage LOW
+Sensor A + Sensor B HIGH
+
+----------------------------------------
+End of Input
+----------------------------------------
