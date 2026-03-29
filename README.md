@@ -71,6 +71,6 @@ This system is a **simulation and educational tool** and is not connected to rea
 
 ## 📜 License
 
-MIT License
+Custom License
 
 ---
