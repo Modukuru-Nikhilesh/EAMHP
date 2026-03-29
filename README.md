@@ -1,6 +1,7 @@
-# ✈️ EAMHP – Avionics Health Prediction System
+# ✈️ EAMHP #
+### Excel-Based Avionics & Mechanical Health Predictor  
 
-EAMHP (Excel-Based Avionics Mechanical & Health Prediction) is a diagnostic support tool designed to assist avionics engineers in predicting faults and analyzing aircraft system health using structured parameter inputs.
+A modular diagnostic system designed to simulate aircraft fault prediction, system health monitoring, and maintenance decision support using rule-based logic.
 
 ---
 
@@ -56,6 +57,19 @@ EAMHP follows a modular architecture consisting of:
 * 📄 SRD → `/docs/SRD.md`
 
 ---
+
+## 💡 Key Innovation
+
+* EAMHP integrates multi-parameter fault combinations to simulate real-world aircraft diagnostic scenarios, enabling structured fault prediction and maintenance guidance.
+----
+
+## 📊 System Capability
+
+* - Supports multi-parameter fault combinations  
+* - Handles complex condition mapping  
+* - Designed for scalable aircraft system expansion  
+* - Generates integrated diagnostic outputs
+  
 
 ## 📸 Screenshots
 
