@@ -88,3 +88,6 @@ This system is a **simulation and educational tool** and is not connected to rea
 Custom License
 
 ---
+
+Simulating aircraft fault prediction and maintenance decision-making using structured, rule-based system logic.
+
