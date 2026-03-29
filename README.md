@@ -91,3 +91,14 @@ Custom License
 
 Simulating aircraft fault prediction and maintenance decision-making using structured, rule-based system logic.
 
+
+## 📌 Status
+🚧 Under Development – Visual enhancements and expanded logic in progress
+
+
+---
+
+## 💡 Why This Matters
+Understanding fault behavior before physical maintenance improves efficiency, safety, and decision-making in aviation systems.
+
+---
